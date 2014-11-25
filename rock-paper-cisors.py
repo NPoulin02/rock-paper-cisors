@@ -64,5 +64,3 @@ while restart == True:
 		restart = True
 	else:
 		restart = False
-
-#Simplify to the maximum the code
